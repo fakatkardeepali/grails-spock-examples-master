@@ -1,0 +1,6 @@
+target/
+stacktrace.log
+.idea
+atlassian-ide-plugin.xml
+*.iml
+out/
